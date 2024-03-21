@@ -11,7 +11,7 @@ video,
   width: 640px;
 }
 h1 {
-  color: #5400ec;
+  color: #121319;
   font-weight: 600;
 }
 .hero_button_secondary {
@@ -23,7 +23,7 @@ h1 {
   -ms-grid-row-align: center;
   align-self: center;
   border-radius: 4px;
-  background-color: #7733f4;
+  background-color: #121319;
   box-shadow: 0 3px 3px 0 rgb(55 65 81 / 20%);
   font-family: proxima-nova, sans-serif;
   color: #fff;
